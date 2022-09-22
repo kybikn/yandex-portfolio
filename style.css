@@ -135,33 +135,40 @@
 }
 
 .project_name_music-album {
-  background-image: url(https://code.s3.yandex.net/web-code/album.png);
+  /* background-image: url(https://code.s3.yandex.net/web-code/album.png); */
+  background-image: url(./assets/images/album.png);
 }
 
 .project_name_design-priciples {
-  background-image: url(https://code.s3.yandex.net/web-code/design.png);
+  /* background-image: url(https://code.s3.yandex.net/web-code/design.png); */
+  background-image: url(./assets/images/design.png);
 }
 
 .project_name_slider {
-  background-image: url(https://code.s3.yandex.net/web-code/slider.gif);
+  /* background-image: url(https://code.s3.yandex.net/web-code/slider.gif); */
+  background-image: url(./assets/gif/slider.gif);
 }
 
 .project_name_reactive {
-  background-image: url(https://code.s3.yandex.net/web-code/reactive.gif);
+  /* background-image: url(https://code.s3.yandex.net/web-code/reactive.gif); */
+  background-image: url(./assets/gif/reactive.gif);
 }
 
 .project_name_how-to-study {
-  background-image: url(https://code.s3.yandex.net/web-code/how-to-study.png);
+  /* background-image: url(https://code.s3.yandex.net/web-code/how-to-study.png); */
+  background-image: url(./assets/images/how-to-study.png);
   order: 3;
 }
 
 .project_name_across-russia {
-  background-image: url(https://code.s3.yandex.net/web-code/across-russia.png);
+  /* background-image: url(https://code.s3.yandex.net/web-code/across-russia.png); */
+  background-image: url(./assets/images/across-russia.png);
   order: 2;
 }
 
 .project_name_mesto {
-  background-image: url(https://code.s3.yandex.net/web-code/mesto.png);
+  /* background-image: url(https://code.s3.yandex.net/web-code/mesto.png); */
+  background-image: url(./assets/images/mesto.png);
   order: 1;
 }
 
@@ -203,7 +210,8 @@
 .footer__logo {
   width: 145px;
   height: 25px;
-  background-image: url(https://code.s3.yandex.net/web-code/RU-long-black.svg);
+  /* background-image: url(https://code.s3.yandex.net/web-code/RU-long-black.svg); */
+  background-image: url(./assets/svg/RU-long-black.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
